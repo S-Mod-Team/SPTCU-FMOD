@@ -1,1 +1,2 @@
-USE FMOD STUDIO 2.02.24
+# CheesedUP-FMOD
+FMOD Source Project for the **Pizza Tower: Cheesed Up!** mod to add custom music and sounds to it.
